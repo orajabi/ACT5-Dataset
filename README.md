@@ -126,7 +126,7 @@ For any further inquiries or questions regarding the dataset, please contact:
 If you use this dataset for your research or refer to it in any way, please cite the corresponding paper:
 
 ```
-O Rajabi Shishvan, A Abdelwahab, N Barbosa da Rosa Jr., G J Saulnier, J J Mueller, J C Newell, D Isaacson, ACT5 Electrical Impedance Tomography System, EEE Transactions on Biomedical Engineering (2023)
+Rajabi Shishvan, Omid, Ahmed Abdelwahab, Nilton Barbosa da Rosa, Gary J. Saulnier, Jennifer L. Mueller, Jonathan C. Newell, and David Isaacson. "ACT5 Electrical Impedance Tomography System." IEEE Transactions on Biomedical Engineering (2023)
 ```
 
 We appreciate your interest in our dataset and hope it proves to be a valuable resource for your research or analysis.
