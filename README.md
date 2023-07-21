@@ -10,7 +10,6 @@ This README file provides an overview of the dataset used in the experiments con
   - [Adaptive Current Patterns](#Adaptive-Current-Patterns)
 - [Collaborators](#Collaborators)
 - [Contributing](#Contributing)
-- [License](#License)
 - [Contact Information](#Contact-Information)
 - [Citation](#Citation)
 - [Acknowledgement](#Acknowledgement)
