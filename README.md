@@ -5,7 +5,7 @@ This README file provides an overview of the dataset used in the experiments con
 ## Table of Contents
 - [Dataset Description](#Dataset-Description)
 - [Experiments and Files](#Experiments-and-Files)
-  - [ACT5 Distinguishability Experiments](#ACT5-Distinguishability-Experiments)
+  - [ACT 5 Distinguishability Experiments](#ACT5-Distinguishability-Experiments)
   - [Frequency Experiments](#Frequency-Experiments)
   - [Adaptive Current Patterns](#Adaptive-Current-Patterns)
 - [Collaborators](#Collaborators)
@@ -19,10 +19,10 @@ This README file provides an overview of the dataset used in the experiments con
 The dataset consists of a collection of data files used in the experiments conducted for the research paper. It encompasses various datasets, input configurations, and experimental results that were utilized to analyze and validate the research findings.
 
 ## Experiments and Files
-Experiments are broken down to various section, with each section regarding on aspect of capabilities of ACT5.
-These aspects include the ability of ACT5 to detect small changes in the conductivity of the medium, ability of ACT5 to take EIT images in various frequencies, ability of ACT5 to apply any given current patterns, and human data collected by the ACT5 system.
+Experiments are broken down to various section, with each section regarding on aspect of capabilities of ACT 5.
+These aspects include the ability of ACT 5 to detect small changes in the conductivity of the medium, ability of ACT 5 to take EIT images in various frequencies, ability of ACT 5 to apply any given current patterns, and human data collected by the ACT 5 system.
 
-### ACT5 Distinguishability Experiments 
+### ACT 5 Distinguishability Experiments 
 Folder: `Distinguishability/`
 
 In this set of experiments, a small target is inserted (or removed) from the center of the tank filled with saline as shown in `Distinguishability/Tragets_Tank_Middle.jpg`. The tank has a diameter of 
@@ -42,12 +42,12 @@ Each data file has multiple elements:
 ### Frequency Experiments
 Folder: `Frequency/`
 
-The frequency experiments include opeartion of ACT5 in a wide range of frequencies and validation of results through measurements on a saline-filled test cell using an LCR meter.
+The frequency experiments include opeartion of ACT 5 in a wide range of frequencies and validation of results through measurements on a saline-filled test cell using an LCR meter.
 
-#### ACT5 Frequency Experiments 
+#### ACT 5 Frequency Experiments 
 Folder: `Frequency/ACT5_Saline_Tank/`
 
-To measure the behavior of ACT5 in various frequencies, data was collected on a tank with diameter of 30 cm, once fileld with only saline and once with targets in the tank.
+To measure the behavior of ACT 5 in various frequencies, data was collected on a tank with diameter of 30 cm, once fileld with only saline and once with targets in the tank.
 Top view image of the targets is shown in `Frequency/ACT5_Saline_Tank/Targets_photo/jpg`.
 The data was collected at multiple frequencies, ranging from 5 kHz to 451 kHz.
 Maximum applied current from each electrode was set at 200uA.
